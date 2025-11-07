@@ -1,5 +1,5 @@
 # Automating Enclosure Generation in FreeCAD
-Welcome to my FYP journey
+Welcome to my FYP journey.    
 This repository contains the macro files that automate the generation of electronic enclosures in FreeCAD.  
 FreeCAD supports two modelling techniques: 
 - constructive solid geometry (CSG) modelling which is done using the Part Workbench
